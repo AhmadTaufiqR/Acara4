@@ -21,6 +21,5 @@
     var_dump($x);
     echo"<br>";
     echo strlen("Hello World!");
-    echo"<br>";
     echo strpos("Hello World!", "world");
 ?>

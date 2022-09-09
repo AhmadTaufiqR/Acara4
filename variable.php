@@ -6,6 +6,7 @@ $prodi = "Teknik Informatika ";
 echo "Selamat Praktikum ";
 echo $nim;
 echo $nama;
+echo "<br>";
 echo $prodi;
 
  ?>

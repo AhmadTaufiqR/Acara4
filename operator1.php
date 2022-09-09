@@ -7,5 +7,4 @@
     echo "Nilai Tugas 2 = ".$tugas2."<br>";
     echo "Jumlah Tugas = ".$jumlah."<br>";
     echo "Nilai Tugas 1 = ".$rerata;
-    echo "<br>";
 ?>`

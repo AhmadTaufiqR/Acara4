@@ -8,5 +8,4 @@ echo $nim;
 echo $nama;
 echo "<br>";
 echo $prodi;
-
  ?>
